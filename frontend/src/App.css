@@ -1,0 +1,12 @@
+.optionsContainer {
+    background-color: #ffffff;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.05);
+    /* Softer shadow */
+}
